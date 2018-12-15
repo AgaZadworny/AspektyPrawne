@@ -12,7 +12,7 @@
 \RequirePackage{titlesec}
 \RequirePackage{tocloft}
 \usepackage{ifthen}
-\geometry{verbose,tmargin=1.5cm,bmargin=1.5cm,lmargin=1cm,rmargin=1cm}
+\geometry{verbose,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
 \frenchspacing % włączenie odpowiednich spacji po kropkach
 \newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
 
